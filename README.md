@@ -2,6 +2,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/oricha?style=social) 
 
 I'm passionate about coding, DevOps, and everything that comes with it. 
+My expertise lies in performance optimization all related toJVM, Kubernetes, and CI/CD pipelines.
 <!--
 **oricha/oricha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->

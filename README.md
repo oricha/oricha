@@ -25,3 +25,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ![Twitter Follow](https://img.shields.io/twitter/follow/oricha?style=social)
 - ⚡ Fun fact: ...
 
+---
+🧰 Toolbox
+---
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java Logo" width="50" height="50" /> 
+

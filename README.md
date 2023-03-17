@@ -29,4 +29,6 @@ Here are some ideas to get you started:
 🧰 Toolbox
 ---
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java Logo" width="50" height="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJs Logo" width="50" height="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring Logo" width="50" height="50" /> 
 
